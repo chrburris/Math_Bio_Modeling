@@ -3,7 +3,7 @@
 ## Project Outline
 The goal of this assignment was to reproduce the findings of an article related to mathematical modeling (continuous ODE model) pertaining to cellular biology. In addition, we were expected to add to the existing model, justify the validity of this extension, and test our resulting model. 
 
-This work was in collaboration with Melody Walker at VT. The link to the original paper we analysed is [here](http://jvi.asm.org/content/85/11/5565.full.pdf+html). 
+This work was in collaboration with Melody Walker at VT. The link to the original paper we analysed is [here](http://jvi.asm.org/content/85/11/5565.full.pdf+html). You can find the presentation we gave for this project under *bio-final-presentation.pdf*.
 
 ## Original Article
 ### *Vaccination Alters the Balance between Protective Immunity, Exhaustion, Escape, and Death in Chronic Infections* 
@@ -17,7 +17,7 @@ vaccine aimed at increasing CD8 T cell activity. This article models the behavio
 
 In terms of a simplified model, it would look something like this [schema.pdf](https://github.com/chrburris/Math_Bio_Modeling/files/2215247/schema.pdf).
 
-We simulated the original model presented in the article and found that our simulations matched the original model nicely. 
+We simulated the original model presented in the article and found that our simulations matched the original model nicely. We added an extra term to the model to include exhaustion of T cells. We confirmed that our model produces chronic and acute infection as expected. 
 
 References:
 1. Koup, R. A. and Douek, D. (2011). Vaccine Design for CD8 T Lymphocyte Responses. Cold Spring Harb Perspect Med 1:a007252
