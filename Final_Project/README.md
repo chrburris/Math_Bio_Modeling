@@ -15,5 +15,9 @@ vaccine aimed at increasing CD8 T cell activity. This article models the behavio
 
 ![hbvschema](https://user-images.githubusercontent.com/40032919/43022495-5937f67c-8c1c-11e8-9386-66e424f274aa.jpg)
 
+In terms of a simplified model, it would look something like this [schema.pdf](https://github.com/chrburris/Math_Bio_Modeling/files/2215247/schema.pdf).
+
+We simulated the original model presented in the article and found that our simulations matched the original model nicely. 
+
 References:
 1. Koup, R. A. and Douek, D. (2011). Vaccine Design for CD8 T Lymphocyte Responses. Cold Spring Harb Perspect Med 1:a007252
