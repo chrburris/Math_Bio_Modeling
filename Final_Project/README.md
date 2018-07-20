@@ -13,7 +13,6 @@ Research into T cell-inducing vaccines has increased in recent years due to the 
 viral replication in infections such as Hepatitis B virus (HBV), lymphocytic choriomeningitis virus (LCMV) and HIV. Many times, the immune response is unable to clear these virus which leads to chronic infection (see Ref. 1). Researchers are interested the efficacy of a
 vaccine aimed at increasing CD8 T cell activity. This article models the behavior of T cells and the host pathogen within the body with a 4 dimensional ODE model. The graphical interpretation of this model would look something like this. 
 
-![4d_model_graph](~/Desktop/VT/Classes/Fall_2016/Math_bio/Final/HBVschema.jpg)
 
 References:
 1. Koup, R. A. and Douek, D. (2011). Vaccine Design for CD8 T Lymphocyte Responses. Cold Spring Harb Perspect Med 1:a007252
