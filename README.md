@@ -6,9 +6,6 @@ Models are run (simulated) in Matlab using ode45. We are often interested in whe
 
 ## Repo Content
 
-These .m files solve 3 different ordinary different equation (ODE) systems that describe negative feedback oscillations. In this case, we consider these systems to describe cellular interactions. 
-
-We start with the Goodwin model, and derive from there the Bliss model and the Goldbetter model for circadium rhythms. 
-Each model has an associated ode.m file which corresponds to the ode system to be solved in the original .m file. 
-
-A write up of the behavior of these systems is found in *lab1_writeup.pdf*.
+There are 2 folders in this repo. 
+* *Lab_Project* gives the .m files that code 3 different models pertaining to negative feedback oscillations found in circadium rhythm patterns as well as protein dynamics. 
+* *Final_Project* provides the .m files as well as a presentation and a link to an article. The final project for this course was to review and reproduce an article pertaining to cellular biology using ODE models and extend the models in a meaningful way. The project is described in more detail in the README.md file.
