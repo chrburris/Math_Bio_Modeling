@@ -1,6 +1,6 @@
 # Model and Simulations of Biological Systems Course
 ## Virginia Tech, Fall 2016
-This course was designed to apply the techniques of differential equation and continueous mathematical modeling to biological systems. For this incarnation of the course we modeled systems in cellular biology, in particular infectious diseases and HIV. We model these systems using well-known dynamics of infectious diseases pulling from immunology and pathology. 
+This course was designed to apply the techniques of differential equations and continuous mathematical modeling to biological systems. For this incarnation of the course we modeled systems in cellular biology. In particular, infectious diseases and HIV. We model these systems using well-known dynamics of infectious diseases pulling from immunology and pathology. 
 
 Models are run (simulated) in Matlab using ode45. We are often interested in whether our model behaves as the literature suggests it should. Namely, if we know that for sustained high levels of infection an individual's immune system will become exhausted, we should see this decreased effectiveness in the immune response in our simulations. 
 
